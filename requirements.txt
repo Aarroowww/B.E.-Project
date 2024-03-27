@@ -1,0 +1,7 @@
+google collab 
+Pycharm
+Dataset
+Numpy
+Keras
+pandas
+Matplotlib 
